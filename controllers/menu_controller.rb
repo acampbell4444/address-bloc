@@ -72,7 +72,7 @@ class MenuController
   def search_entries
   end
 
-  def read_csv
+  def read_csv(file_name)
   end
 
   def entry_submenu(entry)
